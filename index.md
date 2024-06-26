@@ -5,4 +5,10 @@
 ###### Here's some java just for fun
 ``` java
 boolean hasPiano = true;
-``` 
+```
+###### Now here is what you need to learn how to read sheet music:
+- [ ] A piano
+- [ ] Paper
+- [ ] Pencil
+
+
